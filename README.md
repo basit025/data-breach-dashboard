@@ -3,7 +3,7 @@
 Analyzed ~12,000 data breach records (2000–2024) to find patterns in how breaches happen, which industries get hit hardest, and what role human error plays. Built an interactive Streamlit dashboard on top of the analysis.
 
 ## 🚀 Live Dashboard
-**Try the interactive dashboard:** [https://your-app-url.streamlit.app](https://data-breach-dashboard.streamlit.app)
+**Try the interactive dashboard:** [https://data-breach-dashboard.streamlit.app]
 
 
 
